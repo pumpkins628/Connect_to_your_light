@@ -72,7 +72,7 @@ After collecting the data, I uploaded all the recordings to the Edge Impulse for
 
 ### Dataset
 
-Finally, we have the dataset to train the model. The total duration of the dataset is 25m 30s, in which the training set lasts for 18m 16s, and the test set lasts for 7m14s, with a ratio of about 3:1. This is very reasonable.
+Finally, we have the dataset to train the model. The total duration of the dataset is 25m 30s, in which the training set lasts for 18m 16s, and the test set lasts for 7m14s, with a ratio of about 2.5:1. This is very reasonable.
 |      | Training | Test     | Total    |
 |------|----------|----------|----------|
 | ON   | 110     | 60     | 170     |
