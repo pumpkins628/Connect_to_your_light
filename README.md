@@ -5,6 +5,8 @@ Author: Xueli Jiao
 Link to github repo: https://github.com/pumpkins628/Connect_to_your_light
 <br>
 Link to Edge Impulse projects: https://studio.edgeimpulse.com/studio/363562
+<br>
+Link to introduction video: https://youtu.be/nAzViRKGrvE?si=0OkuovE1TI8DHduY
 
 ## Introduction
 ### Overview of the project
